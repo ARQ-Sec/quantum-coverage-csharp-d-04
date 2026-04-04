@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="csproj/packages.config" Version="1.0.0" />
+    <PackageReference Include="Sustainsys.Saml2" Version="1.0.0" />
+    <PackageReference Include="ITfoxtec.Identity.Saml2" Version="1.0.0" />
+    <PackageReference Include="ComponentSpace.SAML2" Version="1.0.0" />
+    <PackageReference Include="AuthServices" Version="1.0.0" />
+  </ItemGroup>
+</Project>

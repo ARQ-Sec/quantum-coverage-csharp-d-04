@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Org.BouncyCastle.Pqc" Version="1.0.0" />
+    <PackageReference Include="Org.BouncyCastle.Pqc" Version="1.0.0" />
+    <PackageReference Include="Kyber" Version="1.0.0" />
+    <PackageReference Include="Dilithium" Version="1.0.0" />
+    <PackageReference Include="Sphincs" Version="1.0.0" />
+  </ItemGroup>
+</Project>
